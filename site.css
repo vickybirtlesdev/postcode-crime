@@ -1,0 +1,25 @@
+body{
+	color: #000000;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header{
+	background: url('assets/street.jpeg');
+	padding: 100px 0;
+}
+header .header-inner{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.7);
+}
+header h1{
+	text-align: center;
+	width: 100%;
+}
+
+.crime-type{
+	text-transform:capitalize;
+}
+
+main{
+	padding: 40px 0;
+}
